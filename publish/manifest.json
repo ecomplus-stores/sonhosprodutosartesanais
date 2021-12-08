@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4880db7fdb34bace8b527db667716687.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6d50b3e432add717e3fb149cf33d3240.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8f7feb4e114fd3811e907e347cc256ae.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.16425832c86d4ea1494ccfc60221badf.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.acc39cdb99cdec50df54eb4940c2b8dc.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Sonhos - Saboaria Artesanal",
+  "short_name": "Saboaria Sonhos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos uma saboaria dedicada a confecção de lembranças para ocasiões especiais e produtos para o cuidado da casa.",
+  "background_color": "#ffffff",
+  "theme_color": "#5cbde5"
+}
