@@ -7,8 +7,8 @@
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [
@@ -22,7 +22,7 @@
       "/cotidiano?Cotidiano"
     ],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
