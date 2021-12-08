@@ -1,26 +1,28 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "",
+    "link": "",
+    "background": "#5cbde5",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/religiosos?Religiosidade",
+      "/bebe-a-bordo?Bebê a bordo",
+      "/debutante?Debutante",
+      "/casamento?Casamento",
+      "/formatura?Formatura",
+      "/empresarial?Empresarial",
+      "/datas-comemorativas?Datas Comemorativas",
+      "/cotidiano?Cotidiano"
+    ],
+    "random": 0,
+    "full_width": true
   },
   "search_input": true
 }
