@@ -1,24 +1,24 @@
 {
-  "store_id": 18957,
-  "name": "sonhosprodutosartesanais",
   "domain": "sonhosprodutosartesanais.netlify.app",
-  "short_name": "sonhosprodutosartesanais",
-  "description": "sonhosprodutosartesanais",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#5cbde5",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/sonhosprodutosartesanais",
+  "logo": "/img/uploads/principal.png",
+  "name": "Sonhos - Saboaria Artesanal",
+  "short_name": "Saboaria Sonhos",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/icone.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/sonhosprodutosartesanais"
+  "secondary_color": "#5cbde5",
+  "icon": "/img/uploads/icone.png",
+  "store_id": 18957,
+  "description": "Somos uma saboaria dedicada a confecção de lembranças para ocasiões especiais e produtos para o cuidado da casa.",
+  "large_icon": "/img/uploads/principal.png"
 }
