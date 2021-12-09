@@ -4,7 +4,7 @@
   "primary_color": "#5cbde1",
   "theme": {
     "bootswatch": "minty",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/sonhosprodutosartesanais",
