@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": false,
+    "show": true,
     "text": "Enviamos para todo o Brasil"
   },
   "installments": {
