@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Sonhos - Saboaria Artesanal",
+    "text": "Somos uma saboaria dedicada a confecção de lembranças para ocasiões especiais e produtos para o cuidado da casa."
   },
   "links_1": {
     "list_pages": false,
@@ -10,7 +10,7 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "Categorias",
+    "title": "",
     "list": []
   },
   "contacts": {
@@ -27,7 +27,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,7 +35,7 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
