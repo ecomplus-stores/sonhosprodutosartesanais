@@ -1,6 +1,15 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "religiosos",
+    "bebe-a-bordo",
+    "debutante",
+    "casamento",
+    "formatura",
+    "empresarial",
+    "cotidiano",
+    "dia-das-maes-2022"
+  ],
   "phone_wpp": true,
   "socials": true,
-  "alphabetical_order": true
+  "alphabetical_order": false
 }
