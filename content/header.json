@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "Enviamos para todo o Brasil! 💛",
     "link": "",
     "background": "#5cbde5",
     "color": "#ffffff"
@@ -11,18 +11,9 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [
-      "/religiosos?Religiosidade",
-      "/bebe-a-bordo?Bebê a bordo",
-      "/debutante?Debutante",
-      "/casamento?Casamento",
-      "/formatura?Formatura",
-      "/empresarial?Empresarial",
-      "/datas-comemorativas?Datas Comemorativas",
-      "/cotidiano?Cotidiano"
-    ],
+    "featured": [],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": false
 }
